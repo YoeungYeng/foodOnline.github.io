@@ -1,0 +1,11 @@
+.common-section {
+  background: linear-gradient(to bottom,#2471A3,#2980B9);
+  /* background-image: url('../assets/Image/chicken.jpg'); */
+  background-size: cover;
+  background-position: center;
+  padding: 40px 0;
+  width: 100%;
+  background: rgba(36, 140, 233, 1);
+  border-radius: 5px;
+  box-shadow: 1px 2px 3px rgba(0, 0,0, 0.24);
+}

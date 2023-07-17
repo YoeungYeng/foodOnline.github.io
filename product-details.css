@@ -1,0 +1,86 @@
+.sigle-product-content{
+    padding-left: 50px;
+}
+.product-title span{
+    font-size: 2rem;
+    color: #f31612;
+    font-weight: 700;
+}
+.product-title{
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+.product-price{
+    color: rgb(214, 19, 19);
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+.category-p{
+    color: skyblue;
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+.category-p span{
+    color: #f31612;
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
+}
+.addToCart-btn{
+    border: 1px solid gray;
+    padding: 10px 12px;
+    border-radius: 5px 7px;
+    transition: 0.5s;
+    font-weight: 600;
+    margin-top: 1.4rem;
+}
+.addToCart-btn:hover{
+    background: #f31612;
+    color: #fff;
+    outline: none;
+    border: none;
+    font-weight: 700;
+}
+form{
+    width: 60%;
+    /* background: rgba(81, 81, 81, 0.591); */
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px 5px;
+    box-shadow: 1px 2px 4px 2px rgba(0, 0, 0, 0.25);
+    margin-bottom: 20px;
+}
+.form-group input,.form-group textarea{
+    margin-top: 20px;
+    width: 100%;
+    border-radius: 5px;
+    margin-bottom: 0.9rem;
+    padding: 7px 20px;
+    outline: none;
+    border: none;
+    line-height: 30px;
+    background: transparent;
+    border-bottom: 1px solid #212245b6;
+}
+.form-group textarea:focus{
+    outline: none;
+}
+::placeholder{
+    color: white;
+}
+.user-name{
+    font-weight: 600;
+    color: #212245;
+}
+.user-email{
+    font-size: 0.8rem;
+}
+.feedback-text{
+    color: #212245b6;
+}
+.tab-active{
+    color: #f31612;
+    cursor: pointer;
+}
+.tabs{
+    color: gray;
+}

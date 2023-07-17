@@ -1,0 +1,30 @@
+
+.hero_title{
+    font-size: 2.2rem;
+    line-height: 55px;
+}
+.hero_title span{
+    color: #df2020;
+    font-weight: 700;
+}
+.hero-content{
+    font-size: 1rem;
+    color: #777;
+    line-height: 25px;
+}
+.hero-btns button{
+    border: none;
+    outline: none;
+    padding: 7px 20px;
+    border-radius: 3px 9px;
+    font-weight: 700;
+}
+.order-btn{
+   background: #df2020;
+   color: #fff;
+}
+.all-food-btns{
+   border: 1px solid #df2020 !important;
+   background: transparent;
+   color: #df2320;
+}

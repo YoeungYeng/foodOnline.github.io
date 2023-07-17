@@ -1,0 +1,8 @@
+.category_items{
+    background: #fff;
+}
+@media only screen and (max-width: 576px) {
+    .category_items{
+        background: #000;
+    }
+}

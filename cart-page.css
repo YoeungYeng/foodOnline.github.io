@@ -1,0 +1,10 @@
+th{
+    /* border-bottom: 2px solid #000; */
+    text-align: center;
+}
+.cart-img-box{
+    width: 80px;
+}
+.cart-img-box img{
+    width: 100%;
+}
